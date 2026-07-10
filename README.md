@@ -18,5 +18,6 @@ I created a defensive endpoint security tool written natively in PowerShell to a
 3. Run the script:
    ```bash
    pwsh SecurityAudit.ps1
+4. You will see the HTML report within your computer files.
 
 I hope you enjoy!
